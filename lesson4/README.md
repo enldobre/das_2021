@@ -1,3 +1,11 @@
+# Examples
+
+Using merchant.csv/transaction.csv data:  
+1.Read data from a csv to a dataframe  
+2.clean data and remove duplicates  
+3.Enrich transaction data using merchant data  
+4.Render total sales amount and total transactions per merchant  
+5.Persist data to storage parquet format/ partition transactions using a date
 
 Using your preferred IDE setup a project to handle this exercises:
 
