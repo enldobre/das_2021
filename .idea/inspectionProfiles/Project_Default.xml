@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="lesson5.examples.producer.read_data" />
+          <option value="lesson6.examples.models.load_from_csv" />
+          <option value="lesson6.examples.graphx.initialize_spark" />
+          <option value="lesson4.examples.etl.load_from_csv" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

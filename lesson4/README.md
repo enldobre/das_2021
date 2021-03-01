@@ -57,9 +57,9 @@ Order 1: 10 products sold
 Order 2: 8 products sold  
 Order 3: 7 products sold  
 The average % contribution of orders to the seller's quota would be:  
-Order 1: 10/105 = 0.04  
-Order 2: 8/105 = 0.032  
-Order 3: 7/105 = 0.028  
+Order 1: 10/250 = 0.04  
+Order 2: 8/250 = 0.032  
+Order 3: 7/250 = 0.028  
 Average % Contribution = (0.04+0.032+0.028)/3 = 0.03333  
 6.Who are the second most selling and the least selling persons (sellers) for each product? Who are those for product with `product_id = 0`  
 7.Create a new column called "hashed_bill" defined as follows:
